@@ -11,7 +11,7 @@ function solution(s)
     }
     
     
-    return answer = arr.length > 0 ?  answer = 0 : answer = 1;;
+    return answer = arr.length > 0 ?  answer = 0 : answer = 1;
 }
 
 stack 형태로 풀이 하였습니다
